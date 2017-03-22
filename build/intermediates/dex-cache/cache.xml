@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nishant\AndroidStudioProjects\Othello\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Nishant\AndroidStudioProjects\Othello\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_dcd4038e2cce85322e73cd826b47597ff9ea6ac6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nishant\AndroidStudioProjects\Othello\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="66877c5cee46ad3f78137c3e526e75a682cdf559">
+        <dex dex="C:\Users\Nishant\AndroidStudioProjects\Othello\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_4151cca8a53e9b3e4e3e1abe2631f45438d87ade\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nishant\AndroidStudioProjects\Othello\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ff34184892ff96159d57e2a8be290013bfd8d49d">
+        <dex dex="C:\Users\Nishant\AndroidStudioProjects\Othello\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_1b4bbb3735e6058970c30afa1c7bc11a1230d126\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nishant\AndroidStudioProjects\Othello\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Nishant\AndroidStudioProjects\Othello\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_15d3f2d11231d7740db4aa0c691e781c1d05f1aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nishant\AndroidStudioProjects\Othello\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Nishant\AndroidStudioProjects\Othello\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_b38eab2218fac5ccbae9b13b9d506f3ef37f3abd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nishant\AndroidStudioProjects\Othello\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Nishant\AndroidStudioProjects\Othello\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_f7cabbe2a1b3de278d573fde7f20346c44a4bc57\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nishant\AndroidStudioProjects\Othello\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Nishant\AndroidStudioProjects\Othello\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_b3ae65bfb5fe045b9a49020ee327b723c727f2b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nishant\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Nishant\AndroidStudioProjects\Othello\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_78a0c950447a2ac15d26ac2f43b95dd985a5185c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nishant\AndroidStudioProjects\Othello\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Nishant\AndroidStudioProjects\Othello\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_15dcee02efcf90cf49f209840a3bd79424336842\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nishant\AndroidStudioProjects\Othello\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Nishant\AndroidStudioProjects\Othello\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_133f2b15a7d1b147feec91f15d0fe0e682b3f9dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nishant\AndroidStudioProjects\Othello\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Nishant\AndroidStudioProjects\Othello\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_032a4ba0ef85f145cf206f674e340131bac02b87\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nishant\AndroidStudioProjects\Othello\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Nishant\AndroidStudioProjects\Othello\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_7c2602bde90e3fec899a8c4ee842b5f38e8583f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nishant\AndroidStudioProjects\Othello\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Nishant\AndroidStudioProjects\Othello\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_101c5073d0ce7eb9c507ae5cd3b02187246f705b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nishant\AndroidStudioProjects\Othello\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Nishant\AndroidStudioProjects\Othello\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_7a7af850dfa33014613827298538cda0f224b6d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nishant\AndroidStudioProjects\Othello\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Nishant\AndroidStudioProjects\Othello\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_054d0954dc09088fea589088c828734b078706a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nishant\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Nishant\AndroidStudioProjects\Othello\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_b71534442a27e08c75870b2a028780bb3a4e3e21\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nishant\AndroidStudioProjects\Othello\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Nishant\AndroidStudioProjects\Othello\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_9ce06c7796ce52bd334867ce812c8f557105e2a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nishant\AndroidStudioProjects\Othello\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Nishant\AndroidStudioProjects\Othello\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_e4eba355f6739f133a519dc66dfb99c6844c66e6\classes.dex" />
+    </item>
+
+</items>
